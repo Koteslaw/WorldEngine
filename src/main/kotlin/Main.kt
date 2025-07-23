@@ -1,5 +1,5 @@
-package net.koteslaw
+import Window
 
 fun main() {
-    println("Hello World!")
+    Window().run()
 }
